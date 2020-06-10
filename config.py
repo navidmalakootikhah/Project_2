@@ -1,4 +1,4 @@
-password = "Ava*2016"
+password = "postgresspassword"
 
 # OpenWeatherMap API Key
-weather_api_key = "5309fa78af30d19ef55eee955899401a"
+weather_api_key = "apikey"
